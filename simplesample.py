@@ -1,6 +1,4 @@
 import json
-import os
-import sys
 
 filetoimport = "example.json"
 with open('example.json','r') as json_data:

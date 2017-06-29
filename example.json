@@ -4,5 +4,11 @@
 	    "lastname": "Looney",
         "pets":["Rover","FeeFee"]
 
+    },
+    {
+	    "firstname": "John",
+	    "lastname": "Doe",
+        "pets":["Spike","Killer"]
+
     }
 ]
